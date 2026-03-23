@@ -42,7 +42,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["C#, Unity, Python"]
-2024 Goals: ["Create 20+ Projects and learn whatever u need"]
+2026 Goals: ["Create 20+ Projects and learn whatever u need"]
 hobbies: ["Gaming", "Cinema"]
 ```
   
